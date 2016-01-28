@@ -35,8 +35,8 @@ def is_prime(n):
 
 
 def main():
-    total = 100
-    print("prime number in range")
+    total = 42
+    print("prime numbers in range({}):".format(total))
     for i in range(total):
         if is_prime(i):
             print(i)

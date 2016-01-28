@@ -1,13 +1,10 @@
 Lab
 ===
 
-Programming experiment.
-
-Do something like https://github.com/karan/Projects
-
-Start with Python maybe more clearly.
+- Programming laboratory.
+- Inspired by https://github.com/karan/Projects
 
 ## Target
-- For fun.
-- Do some simple projects.
+- Simple projects list.
 - Learn something like programming language/paradigm.
+- Solutions by someway (`Python` will be first).
